@@ -1,0 +1,10 @@
+﻿  Cinema.cpp
+G:\作业\C++\A10\ConsoleApplication2\Header.h(18,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Date.cpp
+G:\作业\C++\A10\ConsoleApplication2\Header.h(18,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Movie.cpp
+G:\作业\C++\A10\ConsoleApplication2\Header.h(18,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+G:\作业\C++\A10\ConsoleApplication2\Header.h(18,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  ConsoleApplication2.vcxproj -> G:\作业\C++\A10\ConsoleApplication2\Debug\ConsoleApplication2.exe
